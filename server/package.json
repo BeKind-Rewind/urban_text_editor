@@ -2,6 +2,7 @@
   "name": "jate",
   "version": "1.0.0",
   "description": "",
+  "start": "node server.js",
   "main": "server.js",
   "scripts": {
     "server": "nodemon server.js --ignore client"

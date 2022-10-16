@@ -1,5 +1,4 @@
 import { openDB } from 'idb';
-
 // Initiate
 const initdb = async () =>
   openDB('jate', 1, {

@@ -6,15 +6,14 @@ Text editor that saves my notes as I move into and out of focus. Installable to 
 
 The app runs in the browser and is a single-page application that meets the PWA criteria. Additionally, features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
-This project uses package `idb`, a lightweight wrapper around the IndexedDB API. It features methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
-Then deployed to Heroku.
+This project uses package `idb`, a lightweight wrapper around the IndexedDB API. 
+Deployed to Heroku.
 
 ## Table of Contents
   - [Getting Started](#gettingstarted)
   - [Usage](#usage)
   - [Installation](#installation)
-  - [Screenshots and Video](#screenshots_video)
-  - [Contributing](#contributing)
+  - [Screenshots](#screenshots)
   - [Questions](#questions)
   - [License](#license)
       
